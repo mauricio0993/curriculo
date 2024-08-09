@@ -1,1 +1,29 @@
-
+}
+.profile-info{
+   overflow: hidden;
+  {
+  .profile-info h1{
+     marign: 0;
+     padding: 0;
+     color: #333;
+  }
+  .profile-info p{
+     color: #666;
+  }
+  .courses, .salary-expectation{
+     margin-top: 20px;
+  }
+    .courses h2, .salary-expectation h2{
+       color: #4caf50;
+    }
+    .courses ul{
+       list-style: none;
+       padding: 0;
+    }
+      .courses li{
+         background: #e8f5e9;
+         margin: 5px 0;
+         padding: 10px
+         border-left: #4caf50 5px solid;
+         color: #333;
+      }
